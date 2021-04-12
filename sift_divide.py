@@ -20,7 +20,7 @@ def compare(lis, i, j):
         return True
     else:
         return False
-
+####
 
 sift_path = 'd://datasets//face//crossvalidation//sift//geo//geo1//test/'
 path = "D://datasets//face//crossvalidation//data//geo//geo1//test/"
